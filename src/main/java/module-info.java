@@ -16,6 +16,7 @@
 
 module com.io7m.atomos20220505
 {
+  // requires osgi.core;
   requires org.apache.felix.atomos;
 
   exports com.io7m.atomos20220505;
