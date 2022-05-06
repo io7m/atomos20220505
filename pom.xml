@@ -103,14 +103,12 @@
         </exclusion>
       </exclusions>
     </dependency>
-
-    <!--
     <dependency>
-      <groupId>org.osgi</groupId>
+      <groupId>org.apache.felix.atomos</groupId>
       <artifactId>osgi.core</artifactId>
       <version>8.0.0</version>
+      <classifier>AtomosFelix</classifier>
     </dependency>
-    -->
   </dependencies>
 
 </project>
